@@ -1,1 +1,1 @@
-petersdockerid0815/dllproxy:1.0
+petersdockerid0815/dockerized-dllproxy:1.0
